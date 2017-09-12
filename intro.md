@@ -150,7 +150,9 @@ R: Right<br>
 N: Don't Move<br>
 L: Left<br>
 you read some symbol you jump to some symbol
-___________
+
+
+---------------------
 
 
 Exersice 1:
